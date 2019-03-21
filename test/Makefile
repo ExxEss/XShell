@@ -1,9 +1,9 @@
 .PHONY: run
-run: test_fork
-	./test_fork
+run: test_const_ptr
+	./test_const_ptr
 
-test_fork: test_fork.cpp
-	g++ -o test_fork test_fork.cpp -Wall
+test_const_ptr: test_const_ptr.cpp
+	g++ -o test_const_ptr test_const_ptr.cpp -Wall
 
 clean:
 	rm -f ./a.out
