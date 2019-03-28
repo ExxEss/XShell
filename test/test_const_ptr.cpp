@@ -4,7 +4,13 @@
 int main() 
 {
     const int a = 3;
-    a = 4;
-    c = 4;
+    const int b = 5;
+    const int* ptr = &a;
+
+    printf("%d\n", *ptr);
+
+    ptr = &b;
+    printf("%d\n", *ptr);
+
     return 0;
 }

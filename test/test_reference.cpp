@@ -32,5 +32,6 @@ int main()
     int& ref2 = b;
 
     swap2(ref1, ref2);
-    std::cout << "a = " << ref1 << std::endl <<"b = " << ref2 << std::endl;
+    std::cout << "a = " << ref1 << std::endl << "b = " << ref2 << std::endl;
+    std::cout << "a = " << a << std::endl << "b = " << b << std::endl;
 }
