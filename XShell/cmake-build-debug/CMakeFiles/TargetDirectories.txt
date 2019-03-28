@@ -1,0 +1,4 @@
+/Users/EssExx/XShell/XShell/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/EssExx/XShell/XShell/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/EssExx/XShell/XShell/cmake-build-debug/CMakeFiles/XShell.dir
+/Users/EssExx/XShell/XShell/cmake-build-debug/CMakeFiles/XShell_autogen.dir
