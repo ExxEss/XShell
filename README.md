@@ -1,2 +1,2 @@
 # XShell
-A simple shell
+A simple shell based Qt5
